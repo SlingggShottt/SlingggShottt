@@ -9,7 +9,7 @@
 - **🚀 Innovating and transforming ideas into reality.**
 - [**Connect with me**](https://twitter.com/SlingggShottt) [<img width="2%" src="TwitterIcon.svg" title="Twitter" align="center"/>](https://twitter.com/your_twitter_handle/)
 
-# **Technologies I wield:**
+# **I wield:**
 
 | AI/ML | FullStack | API |
 | :---: | :---: | :---: |
