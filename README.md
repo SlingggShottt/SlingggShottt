@@ -2,7 +2,7 @@
   <img alt="Greetings" src="" width="100%">
 </p>
 
-# **Hello, World! 🖐 I'm [SlingggShottt].**
+# **Hello, World! 🖐 I'm SlingggShottt.**
 - **🎓Powering through my UG in Computer Science.**
 - **🤖 AI Enthusiast with a knack for building smart solutions.**
 - **🌐 Web Developer with a flair for creating engaging experiences.**
