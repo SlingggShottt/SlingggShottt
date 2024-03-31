@@ -14,7 +14,7 @@
 | AI/ML | FullStack | API |
 | :---: | :---: | :---: |
 
-# **Spotlight Projects:**
+# **I have developed:**
 ## 🎲 [Simon Game](https://slingggshottt.github.io/Simon-Game/)
 A modern twist on the classic memory game, built with HTML, CSS, and JS, showcasing my development skills.
 
