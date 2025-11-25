@@ -3,7 +3,7 @@
 </p>
 
 # **Hello, World! 🖐 I'm SlingggShottt.**
-- **🎓Powering through my UG in Computer Science.**
+- **🎓Powering through my PG in Computer Science.**
 - **🤖 AI Enthusiast with a knack for building smart solutions.**
 - **🌐 Agentic AI and related Saas Developement.**
 - **🚀 Innovating and transforming ideas into reality.**
