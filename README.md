@@ -7,11 +7,11 @@
 - **🤖 AI Enthusiast with a knack for building smart solutions.**
 - **🌐 Web Developer with a flair for creating engaging experiences.**
 - **🚀 Innovating and transforming ideas into reality.**
-- [**Connect with me**](https://twitter.com/SlingggShottt) [<img width="2%" src="TwitterIcon.svg" title="Twitter" align="center"/>](https://twitter.com/your_twitter_handle/)
+- [**Connect with me**](https://twitter.com/SlingggShottt) [<img width="2%" src="[TwitterIcon.svg](https://cdn.iconscout.com/icon/free/png-256/free-x-logo-icon-svg-download-png-9343755.png?f=webp&w=128)" title="Twitter" align="center"/>](https://twitter.com/your_twitter_handle/)
 
 # **I wield:**
 
-| AI/ML | FullStack | API |
+| AI/ML | Agentic AI and related Saas | API |
 | :---: | :---: | :---: |
 
 # **I have developed:**
