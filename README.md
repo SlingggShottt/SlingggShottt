@@ -5,7 +5,7 @@
 # **Hello, World! 🖐 I'm SlingggShottt.**
 - **🎓Powering through my UG in Computer Science.**
 - **🤖 AI Enthusiast with a knack for building smart solutions.**
-- **🌐 Web Developer with a flair for creating engaging experiences.**
+- **🌐 Agentic AI and related Saas Developement.**
 - **🚀 Innovating and transforming ideas into reality.**
 - [**Connect with me**](https://twitter.com/SlingggShottt) [<img width="2%" src="[TwitterIcon.svg](https://cdn.iconscout.com/icon/free/png-256/free-x-logo-icon-svg-download-png-9343755.png?f=webp&w=128)" title="Twitter" align="center"/>](https://twitter.com/your_twitter_handle/)
 
