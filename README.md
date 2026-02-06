@@ -1,38 +1,45 @@
-<p align="center">
-  <img alt="Greetings" src="" width="100%">
-</p>
+# 👋 Hi, I'm Divyansh Pankaj Mishra
 
-# **Hello, World! 🖐 I'm SlingggShottt.**
-- **🎓Powering through my PG in Computer Science - RVCE'27, Bangalore.**
-- **🤖 AI Enthusiast with a knack for building smart solutions.**
-- **🌐 Agentic AI and related Saas Developement.**
-- **🚀 Innovating and transforming ideas into reality.**
-- [**Connect with me**](https://twitter.com/SlingggShottt) [<img width="2%" src="[TwitterIcon.svg](https://cdn.iconscout.com/icon/free/png-256/free-x-logo-icon-svg-download-png-9343755.png?f=webp&w=128)" title="Twitter" align="center"/>](https://twitter.com/your_twitter_handle/)
+### 🚀 Software Engineer | MCA Student @ RV College of Engineering
+[cite_start]I am a results-driven developer passionate about building scalable backend systems and exploring cloud-native technologies[cite: 1, 2, 5]. [cite_start]Currently pursuing my **Master of Computer Applications** in Bangalore[cite: 16].
 
-# **I wield:**
+---
 
-| AI/ML | Agentic AI and related Saas | API |
-| :---: | :---: | :---: |
+### 📊 GitHub Stats
+![Divyansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=slingggshottt&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slingggshottt&layout=compact&theme=radical)
 
-# **I have developed:**
-## 🎲 [Simon Game](https://slingggshottt.github.io/Simon-Game/)
-A modern twist on the classic memory game, built with HTML, CSS, and JS, showcasing my development skills.
+---
 
-### 🌟 **Features:**
-- Engaging user interface 🎨
-- Progressive difficulty 📈
+### 🛠️ Technical Stack
 
-<!--
-**SlingggShottt/SlingggShottt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- [cite_start]**Languages:** Python, C++, HTML/CSS, JavaScript [cite: 10, 11, 24]
+- [cite_start]**Backend & APIs:** FastAPI (Certified) [cite: 12, 28]
+- [cite_start]**DevOps & Cloud:** Docker, Kubernetes, Linux [cite: 13, 14]
+- [cite_start]**Databases:** SQL [cite: 7]
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎓 Education & Achievements
+- [cite_start]**Master of Computer Applications:** RV College of Engineering, Bangalore [cite: 16]
+- [cite_start]**Bachelor of Computer Applications:** BIT Mesra (**GPA: 8.51**) [cite: 17]
+- [cite_start]**Certifications:** FastAPI Certified Developer [cite: 28]
+
+---
+
+### 📁 Featured Projects
+- **[New FastAPI Project]**: *In progress - focused on containerized backend solutions.*
+- [cite_start]**Simon Game**: A modern memory game built with HTML, CSS, and JS[cite: 24].
+- [cite_start]**Drum Kit**: An interactive web-based drum kit[cite: 24].
+
+---
+
+### 📫 Connect with Me
+- [cite_start]**📍 Location:** Jaipur, Rajasthan / Bangalore [cite: 3, 16]
+- [cite_start]**📧 Email:** divyansh.p.m.126@gmail.com [cite: 3]
+- [cite_start]**🔗 GitHub:** [slingggshottt](https://github.com/slingggshottt) 
+
+---
+
+### ⚡ Fun Fact
+[cite_start]I maintain a high academic standard, having achieved **91.8%** in my 10th class and **87.6%** in 12th class[cite: 19].
