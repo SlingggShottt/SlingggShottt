@@ -17,17 +17,17 @@ I am a results-driven backend and cloud-native engineer passionate about designi
 
 ### 🚀 Featured Projects
 
-#### 🏢 **Multi-Tenant SaaS Platform (Jira Alternative)**
-*FastAPI, React, PostgreSQL, MongoDB, Redis, AWS, Terraform, GitHub Actions*
-- Built a production-ready project management platform featuring full tenant isolation, team-scoped visibility, JWT auth, and RBAC.
-- Implemented **40+ REST API endpoints**, 3-tier Razorpay billing, drag-and-drop Kanban board, and automated email/in-app notification systems.
-- Provisioned AWS infrastructure via single-command **Terraform** scripts and established GitHub Actions CI/CD executing **97 automated tests** on push.
-
 #### 📦 **Argus — Agentic Supply Chain Decision Intelligence Platform**
 *FastAPI, React, XGBoost, LangGraph, Groq (Llama 3.3 70B), AWS, Docker Compose*
 - Built an agentic decision-intelligence platform orchestrating 4 specialized agents (Forecast, Risk/Anomaly Detection, Inventory Optimization, Conversational Insight) via **LangGraph**.
 - Implemented **XGBoost demand forecasting across 500+ SKU-store combinations**, automated stockout/anomaly risk detection, and calculated EOQ-based reorder recommendations.
 - Developed a natural-language query interface using **Groq-hosted Llama 3.3 70B** grounded in structured agent outputs to eliminate hallucination, backed by **10+ REST APIs** and a React dashboard.
+
+#### 🏢 **Multi-Tenant SaaS Platform (Jira Alternative)**
+*FastAPI, React, PostgreSQL, MongoDB, Redis, AWS, Terraform, GitHub Actions*
+- Built a production-ready project management platform featuring full tenant isolation, team-scoped visibility, JWT auth, and RBAC.
+- Implemented **40+ REST API endpoints**, 3-tier Razorpay billing, drag-and-drop Kanban board, and automated email/in-app notification systems.
+- Provisioned AWS infrastructure via single-command **Terraform** scripts and established GitHub Actions CI/CD executing **97 automated tests** on push.
 
 #### 🤖 **AI Content Pipeline Automated Agent**
 *Python, Gemini 2.0 Flash, Groq, FastAPI, Redis, PostgreSQL, Docker, Monitoring Stack*
@@ -42,7 +42,7 @@ I am a results-driven backend and cloud-native engineer passionate about designi
 [![Divyansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SlingggShottt&show_icons=true&theme=radical)](https://github.com/SlingggShottt)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SlingggShottt&layout=compact&theme=radical)](https://github.com/SlingggShottt)
 
-[![Divyansh's LeetCode Stats](https://leetcode-stats-six.vercel.app/?username=SlingggShottt&theme=dark)](https://leetcode.com/SlingggShottt)
+[![Divyansh's LeetCode Stats](https://leetcode-stats-six.vercel.app/?username=user9678Zu&theme=dark)](https://leetcode.com/u/user9678Zu/)
 
 ---
 
@@ -58,4 +58,5 @@ I am a results-driven backend and cloud-native engineer passionate about designi
 - 📍 **Location:** Bangalore, Karnataka / Jaipur, Rajasthan *(Open to relocate & Remote)*
 - 💼 **LinkedIn:** [divyansh-pankaj-mishra](https://www.linkedin.com/in/divyansh-pankaj-mishra-4719b4204/)
 - 🐙 **GitHub:** [SlingggShottt](https://github.com/SlingggShottt)
+- 🟡 **LeetCode:** [user9678Zu](https://leetcode.com/u/user9678Zu/)
 - 📧 **Email:** [divyansh.p.m.126@gmail.com](mailto:divyansh.p.m.126@gmail.com)
