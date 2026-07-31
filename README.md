@@ -36,14 +36,16 @@ I am a results-driven backend and cloud-native engineer passionate about designi
 - Instrumented full observability using **Prometheus + Promtail + Loki + Grafana** with automated alerting triggers.
 
 ---
-
 ### 📊 Coding & GitHub Stats
 
-[![Divyansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SlingggShottt&show_icons=true&theme=radical)](https://github.com/SlingggShottt)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SlingggShottt&layout=compact&theme=radical)](https://github.com/SlingggShottt)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SlingggShottt&show_icons=true&theme=radical" alt="GitHub Stats" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SlingggShottt&layout=compact&theme=radical" alt="Top Languages" width="300" />
+</p>
 
-[![Divyansh's LeetCode Stats](https://leetcode-stats-six.vercel.app/?username=user9678Zu&theme=dark)](https://leetcode.com/u/user9678Zu/)
-
+<p align="center">
+  <img src="https://leetcode-stats-six.vercel.app/?username=user9678Zu&theme=dark" alt="LeetCode Stats" width="400" />
+</p>
 ---
 
 ### 🎓 Education
