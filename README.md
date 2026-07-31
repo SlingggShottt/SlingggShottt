@@ -40,12 +40,12 @@ I am a results-driven backend and cloud-native engineer passionate about designi
 ### 📊 Coding & GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SlingggShottt&show_icons=true&theme=radical" alt="Divyansh's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SlingggShottt&layout=compact&theme=radical" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=user9678Zu&show_icons=true&theme=radical" alt="Divyansh's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=user9678Zu&layout=compact&theme=radical" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://leetcode-stats-six.vercel.app/?username=SlingggShottt&theme=dark" alt="Divyansh's LeetCode Stats" />
+  <img src="https://leetcode-stats-six.vercel.app/?username=user9678Zu&theme=dark" alt="Divyansh's LeetCode Stats" />
 </p>
 
 ---
