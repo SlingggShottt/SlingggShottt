@@ -37,7 +37,7 @@ I am a results-driven backend and cloud-native engineer passionate about designi
 
 ---
 
-### ### 📊 Coding & GitHub Stats
+### 📊 Coding & GitHub Stats
 
 [![Divyansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SlingggShottt&show_icons=true&theme=radical)](https://github.com/SlingggShottt)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SlingggShottt&layout=compact&theme=radical)](https://github.com/SlingggShottt)
