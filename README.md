@@ -19,9 +19,9 @@ I am a results-driven backend and cloud-native engineer passionate about designi
 
 #### 📦 **Argus — Agentic Supply Chain Decision Intelligence Platform**
 *FastAPI, React, XGBoost, LangGraph, Groq (Llama 3.3 70B), AWS, Docker Compose*
-- Built an agentic decision-intelligence platform orchestrating 4 specialized agents (Forecast, Risk/Anomaly Detection, Inventory Optimization, Conversational Insight) via **LangGraph**.
-- Implemented **XGBoost demand forecasting across 500+ SKU-store combinations**, automated stockout/anomaly risk detection, and calculated EOQ-based reorder recommendations.
-- Developed a natural-language query interface using **Groq-hosted Llama 3.3 70B** grounded in structured agent outputs to eliminate hallucination, backed by **10+ REST APIs** and a React dashboard.
+- Built the backend and agent orchestration layer for an agentic AI decision-intelligence platform for supply chain demand forecasting and inventory risk management — designed a LangGraph state graph sequencing 3 deterministic agents (Forecast, Risk/Anomaly Detection, Inventory Optimization), plus a Groq-hosted LLM tool-calling agent for natural-language queries grounded in their structured outputs to reduce hallucination.
+- Implemented XGBoost-based demand forecasting across 500 SKU-store combinations, benchmarking accuracy (MAPE) against a seasonal-naive baseline; built rule-based stockout detection, statistical (zscore) anomaly detection, and EOQ/safety-stock-based reorder point and quantity calculations.
+- Exposed the full pipeline via a 5-endpoint FastAPI REST layer consumed by the dashboard; containerized the full stack with Docker for one-command local orchestration and deployed on Render.
 
 #### 🏢 **Multi-Tenant SaaS Platform (Jira Alternative)**
 *FastAPI, React, PostgreSQL, MongoDB, Redis, AWS, Terraform, GitHub Actions*
@@ -29,12 +29,11 @@ I am a results-driven backend and cloud-native engineer passionate about designi
 - Implemented **40+ REST API endpoints**, 3-tier Razorpay billing, drag-and-drop Kanban board, and automated email/in-app notification systems.
 - Provisioned AWS infrastructure via single-command **Terraform** scripts and established GitHub Actions CI/CD executing **97 automated tests** on push.
 
-#### 🤖 **AI Content Pipeline Automated Agent**
-*Python, Gemini 2.0 Flash, Groq, FastAPI, Redis, PostgreSQL, Docker, Monitoring Stack*
-- Architected an event-driven agentic pipeline polling tech RSS feeds with Playwright fallback, SHA-256 deduplication, and dead-letter queues.
-- Integrated Multi-Agent workflows with LLM self-review gates to automatically generate, score, and publish social media variants.
-- Instrumented full observability using **Prometheus + Promtail + Loki + Grafana** with automated alerting triggers.
-
+#### 🤖 **LRU Cache Simulator — In-Memory Caching System**
+*C++, STL (unordered map, list)*
+- Designed and implemented an LRU (Least Recently Used) cache from scratch in modern C++, combining a hash map and doubly linked list via iterator-based node references to achieve O(1) time complexity for get, put, and eviction operations — using STL containers exclusively for RAII-based memory safety with zero manual allocation.
+- Built a query simulation harness modeling real-world 80/20 access patterns (10,000+ queries across a 200-key space with 50 ”hot” keys), mimicking CDN and social-feed caching workloads, achieving an 89.97% cache hit ratio with live hit/miss tracking and periodic cache-state snapshots.
+- Developed a self-contained automated test suite (8 test cases, 27 assertions, 100% pass rate) covering eviction ordering, capacity edge cases, and hit/miss counter accuracy, alongside a Makefile-based build system for one-command compilation, testing, and cleanup.
 ---
 
 ### 📊 Coding & GitHub Stats
