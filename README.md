@@ -44,14 +44,14 @@ I am a results-driven backend and cloud-native engineer passionate about designi
 </p>
 
 <p align="center">
-  <img src="https://leetcode-stats-six.vercel.app/?username=user9678Zu&theme=dark" alt="LeetCode Stats" width="400" />
+  <img src="https://leetcode-stats-six.vercel.app/?username=SlingggShottt&theme=dark" alt="LeetCode Stats" width="400" />
 </p>
 
 ---
 
 ### 🎓 Education
 
-- **Master of Computer Applications (MCA)** — RV College of Engineering, Bangalore | **GPA: 9.79**
+- **Master of Computer Applications (MCA)** — RV College of Engineering, Bangalore | **GPA: 9.12**
 - **Bachelor of Computer Applications (BCA)** — BIT Mesra, Jaipur | **GPA: 8.51**
 
 ---
@@ -61,5 +61,5 @@ I am a results-driven backend and cloud-native engineer passionate about designi
 - 📍 **Location:** Bangalore, Karnataka / Jaipur, Rajasthan *(Open to relocate & Remote)*
 - 💼 **LinkedIn:** [divyansh-pankaj-mishra](https://www.linkedin.com/in/divyansh-pankaj-mishra-4719b4204/)
 - 🐙 **GitHub:** [SlingggShottt](https://github.com/SlingggShottt)
-- 🟡 **LeetCode:** [user9678Zu](https://leetcode.com/u/user9678Zu/)
-- 📧 **Email:** [divyansh.p.m.126@gmail.com](mailto:divyansh.p.m.126@gmail.com)
+- 🟡 **LeetCode:** [user9678Zu](https://leetcode.com/u/SlingggShottt/)
+- 📧 **Email:** [slingggshottt.work@gmail.com](mailto:slingggshottt.work@gmail.com)
