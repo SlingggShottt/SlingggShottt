@@ -59,7 +59,7 @@ I am a results-driven backend and cloud-native engineer passionate about designi
 ### 📫 Connect with Me
 
 - 📍 **Location:** Bangalore, Karnataka / Jaipur, Rajasthan *(Open to relocate & Remote)*
-- 💼 **LinkedIn:** [divyansh-pankaj-mishra](https://www.linkedin.com/in/divyansh-pankaj-mishra-4719b4204/)
+- 💼 **LinkedIn:** [Divyansh Pankaj Mishra](https://www.linkedin.com/in/divyansh-pankaj-mishra-4719b4204/)
 - 🐙 **GitHub:** [SlingggShottt](https://github.com/SlingggShottt)
 - 🟡 **LeetCode:** [SlingggShottt](https://leetcode.com/u/SlingggShottt/)
 - 📧 **Email:** [slingggshottt.work@gmail.com](mailto:slingggshottt.work@gmail.com)
