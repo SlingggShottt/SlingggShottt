@@ -7,11 +7,11 @@ I am a results-driven backend and cloud-native engineer passionate about designi
 
 ### 🛠️ Technical Stack
 
-- **Languages:** Python, C++, JavaScript
+- **Languages:** Python, JavaScript, C++
 - **Backend & AI:** FastAPI, LangGraph, XGBoost, React, Pytest
-- **Databases:** PostgreSQL, MongoDB, Redis
+- **Databases:** SQL
 - **DevOps & Cloud:** AWS (EC2, RDS, ElastiCache, S3), Docker, Terraform, GitHub Actions (CI/CD)
-- **Tools & OS:** Git, Linux, Prometheus, Grafana, Loki
+- **Tools & OS:** Power BI, Git, Linux
 
 ---
 
