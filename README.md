@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Divyansh Pankaj Mishra
 
 ### 🚀 Software Development Engineer | MCA @ RV College of Engineering
-I am a results-driven backend and cloud-native engineer passionate about designing, building, and deploying production-grade distributed systems. Currently pursuing my **Master of Computer Applications** in Bangalore with a **9.79 GPA**.
+I am a results-driven software, data and cloud-native engineer passionate about designing, building, and deploying production-grade distributed systems. Currently pursuing my **Master of Computer Applications** in Bangalore with a **9.12 GPA**.
 
 ---
 
