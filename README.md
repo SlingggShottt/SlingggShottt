@@ -19,7 +19,7 @@ Aspiring **AI \& Data Engineer** with hands-on experience in Python, FastAPI, Az
 ### 🚀 Featured Projects
 
 #### 🏢 **FlowSpace - Multi-Tenant SaaS Project Management Platform**
-*FastAPI, React, PostgreSQL, MongoDB, Redis, AWS, Terraform, GitHub Actions*
+*FastAPI, React, PostgreSQL, MongoDB, Redis, Azure, Terraform, GitHub Actions*
 - Built the backend for a multi-tenant Jira-style project management SaaS with tenant-isolated workspaces — designed a 40+ endpoint async FastAPI REST API using a router–service–repository architecture, with PostgreSQL (SQLAlchemy async ORM, Alembic migrations) for core relational data and MongoDB for task comments and activity feeds.
 - Implemented JWT authentication with access/refresh tokens and bcrypt hashing, role-based access control (Admin/Member) with team-scoped project visibility, Razorpay subscription billing across 3 tiers with plan-limit enforcement, in-app notifications, transactional emails via Resend, and an APScheduler cron job for daily overdue-task digests.
 - Provisioned the Azure infrastructure (Linux VM, Azure Database for PostgreSQL Flexible Server, Azure Managed Redis, Blob Storage, VNet, NSGs, Managed Identity) as code with Terraform for one-command deploy and teardown; built a GitHub Actions CI/CD pipeline that runs 97 pytest tests against a PostgreSQL service container before auto-deploying the backend to the VM and static builds to Blob Storage.
