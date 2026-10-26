@@ -26,11 +26,11 @@ Software engineer with strong **C++ and Python** fundamentals, a solid grounding
 - Provisioned the Azure infrastructure (Linux VM, Azure Database for PostgreSQL Flexible Server, Azure Managed Redis, Blob Storage, VNet, NSGs, Managed Identity) as code with Terraform for one-command deploy and teardown; built a GitHub Actions CI/CD pipeline that runs 97 pytest tests against a PostgreSQL service container before auto-deploying the backend to the VM and static builds to Blob Storage.
 -->
 
-#### ⚡ [**LRU Cache Simulator — In-Memory Cache in C++**](https://github.com/SlingggShottt/lru-cache-simulator)
-*C++, STL, Make*
-- Implemented an in-memory LRU cache in modern C++ by pairing `std::unordered_map` with a `std::list` of nodes, storing list iterators in the map so that `get`, `put` and eviction all run in **O(1)** time; relied on RAII containers for leak-free memory management.
-- Built a simulation runner that replays 10,000+ queries with an 80/20 skewed access pattern (80% of requests on 50 hot keys out of 200), reporting hit/miss counts and an **89.97% cache hit ratio**.
-- Wrote an automated test suite of 27 assertions across 8 test cases (eviction order, key updates, capacity-1 edge case, hit/miss statistics), run through a Makefile build with `make test`.
+#### 📦 [**Argus — Agentic Supply Chain Decision Intelligence Platform**](https://github.com/SlingggShottt/argus)
+*Python, FastAPI, XGBoost, LangGraph, Docker*
+- Architected a modular LangGraph pipeline of 3 specialised agents (Forecast, Risk, Inventory) plus an LLM tool-calling agent that answers natural-language queries grounded in the agents' structured outputs, applying AI tooling to a multi-component system design.
+- Built a global XGBoost forecaster across 500 SKU-store pairs, achieving **15.5% MAPE vs. 24.9%** for a seasonal-naive baseline (38% lower error); flagged 86 stockout-risk SKUs and computed EOQ/safety-stock reorder points.
+- Exposed the system through a FastAPI service to a dashboard; containerized with Docker Compose and deployed on Render.
 
 #### 🧵 [**Bounded Producer–Consumer Queue & Thread Pool**](https://github.com/SlingggShottt/cpp-bounded-queue-thread-pool)
 *C++17, std::thread, mutexes, condition variables, ThreadSanitizer*
@@ -38,18 +38,17 @@ Software engineer with strong **C++ and Python** fundamentals, a solid grounding
 - Deliberately reproduced and fixed classic concurrency bugs — lost updates, check-then-act races, missed wakeups, shutdown deadlocks — and measured the results: replacing busy-waiting with condition variables cut consumer CPU time from ~1–2 s to **0.002 s**, and a 10-task workload dropped from **1.0 s to 0.1 s** going from 1 to 10 workers.
 - Verified the thread pool demo runs clean under ThreadSanitizer.
 
-#### 📦 [**Argus — Agentic Supply Chain Decision Intelligence Platform**](https://github.com/SlingggShottt/argus)
-*Python, FastAPI, XGBoost, LangGraph, Docker*
-- Architected a modular LangGraph pipeline of 3 specialised agents (Forecast, Risk, Inventory) plus an LLM tool-calling agent that answers natural-language queries grounded in the agents' structured outputs, applying AI tooling to a multi-component system design.
-- Built a global XGBoost forecaster across 500 SKU-store pairs, achieving **15.5% MAPE vs. 24.9%** for a seasonal-naive baseline (38% lower error); flagged 86 stockout-risk SKUs and computed EOQ/safety-stock reorder points.
-- Exposed the system through a FastAPI service to a dashboard; containerized with Docker Compose and deployed on Render.
-
 #### 📊 [**Power BI Data Modelling — Galaxy Schema from 23 Messy Source Tables**](https://github.com/SlingggShottt/powerbi-data-modelling-project)
 *Power BI, Power Query (M), DAX, Dimensional Modelling*
 - Modelled a deliberately messy 23-sheet Excel workbook into a governed galaxy schema: 6 fact tables, 6 dimensions, 33 Power Query queries, 14 loaded tables and 20 relationships, using transaction, periodic-snapshot, accumulating-snapshot, factless and mini-fact patterns plus a junk dimension and role-playing date and geography dimensions.
 - Used a control-total check (`total_sales` = 526,643.91) after every merge to catch a hidden 27,518.94 revenue inflation caused by duplicate product names, then traced and fixed it at the dimension level.
 - Implemented row-level security by region, a shared `dim_dates` with Auto Date/Time disabled, and a dedicated measures table.
 
+#### ⚡ [**LRU Cache Simulator — In-Memory Cache in C++**](https://github.com/SlingggShottt/lru-cache-simulator)
+*C++, STL, Make*
+- Implemented an in-memory LRU cache in modern C++ by pairing `std::unordered_map` with a `std::list` of nodes, storing list iterators in the map so that `get`, `put` and eviction all run in **O(1)** time; relied on RAII containers for leak-free memory management.
+- Built a simulation runner that replays 10,000+ queries with an 80/20 skewed access pattern (80% of requests on 50 hot keys out of 200), reporting hit/miss counts and an **89.97% cache hit ratio**.
+- Wrote an automated test suite of 27 assertions across 8 test cases (eviction order, key updates, capacity-1 edge case, hit/miss statistics), run through a Makefile build with `make test`.
 ---
 
 ### 📊 Coding & GitHub Stats
